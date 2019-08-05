@@ -33,7 +33,11 @@
   "devDependencies": {
     "@storybook/addon-actions": "^5.1.10",
     "@storybook/addon-links": "^5.1.10",
+    "@storybook/addon-storyshots": "^5.1.10",
     "@storybook/addons": "^5.1.10",
-    "@storybook/react": "^5.1.10"
+    "@storybook/react": "^5.1.10",
+    "babel-plugin-macros": "^2.6.1",
+    "react-test-renderer": "^16.8.6",
+    "require-context.macro": "^1.1.1"
   }
 }
